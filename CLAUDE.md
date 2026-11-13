@@ -25,8 +25,9 @@ TikTok account: **@greg.the.gator3**, posted through the **Metricool** connector
 7. Post with Metricool `createScheduledPost`:
    - blogId `8073640`; date: ~10 minutes from now (or the next good slot from `getBestTimeToPostByNetwork` for tiktok, within the next 6 hours)
    - media: `https://raw.githubusercontent.com/Xentcrt/greg-the-gator/main/episodes/epNN/greg-epNN.mp4` (wait until the push is done; check the URL returns 200 with curl first)
-   - providers `[{"network":"tiktok"}]`, `tiktokData`: `{"privacyOption":"PUBLIC_TO_EVERYONE","isAigc":true,"title":"","disableComment":false,"disableDuet":false,"disableStitch":false,"commercialContentThirdParty":false,"commercialContentOwnBrand":false,"autoAddMusic":false}`
+   - providers `[{"network":"tiktok"}]`, `tiktokData`: `{"privacyOption":"PUBLIC_TO_EVERYONE","isAigc":true,"title":"<short title, required>","disableComment":false,"disableDuet":false,"disableStitch":false,"commercialContentThirdParty":false,"commercialContentOwnBrand":false,"autoAddMusic":false}`
    - text: one short funny caption + `#uselessfacts #funfacts #didyouknow #greg #comedy` and 1–2 topic hashtags. Keep swear words in the caption censored (f*ck) to avoid TikTok suppression.
+   - Metricool copies the video to its own storage when the post is created, so the GitHub link only has to work at that moment.
 8. Add the episode to `EPISODES.md` (date, facts, caption, Metricool planner URL), commit and push.
 9. Report back with the video file and a one-line summary of the facts.
 
