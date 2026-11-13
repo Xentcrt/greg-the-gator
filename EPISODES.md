@@ -16,4 +16,4 @@ Never reuse a fact from this list.
 - Scotland's national animal is the unicorn
 - Koala fingerprints closely resemble human ones
 - Sharks (~450M years) are older than trees (~350M years)
-- Posted via Metricool for 2026-11-12 21:00 ET, caption: "Greg is back with facts nobody f*cking asked for 🐊👑 …"
+- Posted via Metricool for 2026-11-13 18:00 ET (moved from 21:00 for the 6 PM peak), caption: "Greg is back with facts nobody f*cking asked for 🐊👑 …"

@@ -11,10 +11,24 @@ TikTok account: **@greg.the.gator3**, posted through the **Metricool** connector
 - `episodes/epNN/board.py` — what's drawn on the whiteboard for each section. Copy `episodes/ep02/board.py` as the model.
 - `EPISODES.md` — log of every episode and every fact used. Never reuse a fact.
 
+## Growth rules (from TikTok algorithm research, Nov 2026)
+TikTok ranks mostly on **completion rate and watch time**, then rewatches, shares and saves; likes matter less. Videos are tested on a small pool first (first 30–90 min), and roughly 70% completion is the bar for wider push. So:
+- **Short:** target 25–35 s of speech. Use **4 facts**, not 6. One line per fact plus one punchline line.
+- **Hook in the first 2 seconds:** no slow intro. Greg's very first line is the most shocking fact as a one-liner or a rude tease ("Australia lost a war to birds. Sit the fuck down."). Page 0 still shows the lesson title so the first frame works as a thumbnail.
+- **No dead air:** keep gaps tight; every section should change the board.
+- **Loop / rewatch ending:** the outro line should be short and flow back into the opening (e.g. ends on a question the hook answers), and include a reason to comment.
+- **Share/save bait:** pick facts people want to send to a friend; end the caption with a question.
+- Always set `firstCommentText` to a question that invites replies (e.g. "which one did you NOT know? 🐊").
+
+## When to post
+Metricool's best-time data for this account (America/New_York) peaks at 10 AM, 12 PM and **6 PM** every day, strongest Wed–Thu, then Fri, Tue, Mon; weekends are weakest. The audience for a swearing cartoon skews young, so post at **6:00 PM ET** (after school/work).
+- Schedule the post for 6:00 PM ET on the day of the run. Before scheduling, call `getScheduledPosts` for that day: if a Greg post is already scheduled within 12 h of that slot, use 6:00 PM on the next day that has none.
+- Every ~4 weeks, check post performance with Metricool analytics and shift the slot/day if a different time is clearly winning.
+
 ## Making a new episode (what a scheduled run does)
 1. Read `EPISODES.md`. Pick the next number NN.
-2. Pick **6 new, true, absurd facts** not in the log. Mix animals, history, science, food, geography, the human body. Verify each with a web search before using it; skip anything that turns out to be a myth. If a fact is a joke or exaggeration in Greg's line, make sure the board text itself stays true.
-3. Write `episodes/epNN/script.json` in the same shape as ep02: sections `intro`, six fact sections, `outro`; two short lines each. Greg's voice: rude, deadpan teacher, **lots of swearing** (fuck, shit, ass, goddamn, bitch, bastard…), short punchy sentences. Never slurs, never jokes about real private people, nothing sexual. Total ≈ 40–50 s of speech.
+2. Pick **4 new, true, absurd facts** not in the log. Mix animals, history, science, food, geography, the human body. Verify each with a web search before using it; skip anything that turns out to be a myth. If a fact is a joke or exaggeration in Greg's line, make sure the board text itself stays true.
+3. Write `episodes/epNN/script.json` in the same shape as ep02: sections `intro` (one-line hook), four fact sections, `outro`; short lines. Follow the Growth rules above. Greg's voice: rude, deadpan teacher, **lots of swearing** (fuck, shit, ass, goddamn, bitch, bastard…), short punchy sentences. Never slurs, never jokes about real private people, nothing sexual. Total ≈ 25–35 s of speech.
 4. Write `episodes/epNN/board.py` modelled on ep02:
    - `fact_page(idx, sec_id, 'FACT #n', line1, line2, cue1, cue2)` for each fact, then `pg.draw(G([...]), start, seconds)` doodles.
    - Doodle style: whiteboard-marker cartoons with ink outlines and flat colour fills (`(path, stroke, width, fill, weight)`), with a small visual joke in each. Keep drawings in the page area x 20–920, y 80–400 (text sits at y 488 and 592). No brand logos or trademarked mascots.
@@ -23,7 +37,7 @@ TikTok account: **@greg.the.gator3**, posted through the **Metricool** connector
 5. Run `engine/make_episode.sh episodes/epNN`. Then check it: grab frames at 4–6 moments with ffmpeg and look at them (text not overflowing the board, drawings not overlapping text, Greg's pointer on the red line). Fix and re-render if needed.
 6. `git add` the episode folder (including the mp4) and `EPISODES.md`, commit, push to `main`.
 7. Post with Metricool `createScheduledPost`:
-   - blogId `8073640`; date: ~10 minutes from now (or the next good slot from `getBestTimeToPostByNetwork` for tiktok, within the next 6 hours)
+   - blogId `8073640`; date: 6:00 PM ET as described in **When to post**
    - media: `https://raw.githubusercontent.com/Xentcrt/greg-the-gator/main/episodes/epNN/greg-epNN.mp4` (wait until the push is done; check the URL returns 200 with curl first)
    - providers `[{"network":"tiktok"}]`, `tiktokData`: `{"privacyOption":"PUBLIC_TO_EVERYONE","isAigc":true,"title":"<short title, required>","disableComment":false,"disableDuet":false,"disableStitch":false,"commercialContentThirdParty":false,"commercialContentOwnBrand":false,"autoAddMusic":false}`
    - text: one short funny caption + `#uselessfacts #funfacts #didyouknow #greg #comedy` and 1–2 topic hashtags. Keep swear words in the caption censored (f*ck) to avoid TikTok suppression.
