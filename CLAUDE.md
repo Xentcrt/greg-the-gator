@@ -39,8 +39,9 @@ Metricool's best-time data for this account (America/New_York) peaks at 10 AM, 1
 7. Post with Metricool `createScheduledPost`:
    - blogId `8073640`; date: 6:00 PM ET as described in **When to post**
    - media: `https://raw.githubusercontent.com/Xentcrt/greg-the-gator/main/episodes/epNN/greg-epNN.mp4` (wait until the push is done; check the URL returns 200 with curl first)
-   - providers `[{"network":"tiktok"}]`, `tiktokData`: `{"privacyOption":"PUBLIC_TO_EVERYONE","isAigc":true,"title":"<short title, required>","disableComment":false,"disableDuet":false,"disableStitch":false,"commercialContentThirdParty":false,"commercialContentOwnBrand":false,"autoAddMusic":false}`
+   - providers `[{"network":"tiktok"}]`, `tiktokData`: `{"privacyOption":"PUBLIC_TO_EVERYONE","isAigc":false,"title":"<short title, required>","disableComment":false,"disableDuet":false,"disableStitch":false,"commercialContentThirdParty":false,"commercialContentOwnBrand":false,"autoAddMusic":false}`
    - text: one short funny caption + `#uselessfacts #funfacts #didyouknow #greg #comedy` and 1–2 topic hashtags. Keep swear words in the caption censored (f*ck) to avoid TikTok suppression.
+   - `isAigc` is **false** by the user's choice (2026-11-14): Greg is a stylized cartoon on a whiteboard with a generic TTS voice, which TikTok's rules don't require labelling. If TikTok ever flags or removes a post for missing the AI label, stop setting it to false and tell the user.
    - Metricool copies the video to its own storage when the post is created, so the GitHub link only has to work at that moment.
 8. Add the episode to `EPISODES.md` (date, facts, caption, Metricool planner URL), commit and push.
 9. Report back with the video file and a one-line summary of the facts.
