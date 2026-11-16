@@ -25,3 +25,11 @@ Never reuse a fact from this list.
 - Anglo-Zanzibar War, 1896: shortest war in history, ~38 minutes
 - Posted via Metricool for 2026-11-14 18:00 ET (13 Nov 6 PM slot already had ep02), caption: "Greg has 4 facts and zero f*cks to give 🐊👑 Which one broke your brain? #uselessfacts #funfacts #didyouknow #greg #comedy #octopus #history"; first comment: "how long did the war last? wrong answers only 🐊"
 - Planner: https://app.metricool.com/planner/calendar?blogId=8073640&openWithPostUuid=1576204118805399107
+
+## Ep 4 — Useless facts #4 (made 2026-11-16)
+- Cleopatra (b. 69 BC) lived closer in time to the moon landing (1969) than to the building of the Great Pyramid (~2560 BC)
+- Botanically, bananas are berries and strawberries are not
+- A day on Venus (one rotation, ~243 Earth days) is longer than its year (~225 Earth days)
+- People are about 1 cm taller in the morning (spinal discs compress during the day)
+- Posted via Metricool for 2026-11-16 18:00 ET, caption: "Greg just ruined bananas for you, you're welcome 🐊👑 Which fact made you go "wait, what the f*ck"? #uselessfacts #funfacts #didyouknow #greg #comedy #cleopatra #space"; TikTok title: "Cleopatra vs the moon landing"; first comment: "which one did you NOT know? 🐊"
+- Planner: https://app.metricool.com/planner/calendar?blogId=8073640&openWithPostUuid=-1473097005461452406
