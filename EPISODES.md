@@ -33,3 +33,11 @@ Never reuse a fact from this list.
 - People are about 1 cm taller in the morning (spinal discs compress during the day)
 - Posted via Metricool for 2026-11-16 18:00 ET, caption: "Greg just ruined bananas for you, you're welcome 🐊👑 Which fact made you go "wait, what the f*ck"? #uselessfacts #funfacts #didyouknow #greg #comedy #cleopatra #space"; TikTok title: "Cleopatra vs the moon landing"; first comment: "which one did you NOT know? 🐊"
 - Planner: https://app.metricool.com/planner/calendar?blogId=8073640&openWithPostUuid=-1473097005461452406
+
+## Ep 5 — Useless facts #5 (made 2026-11-18)
+- 1807: Napoleon's rabbit hunt (organised by Berthier) went wrong when the rabbits swarmed him and he retreated to his carriage
+- A shrimp's heart is in its head (cephalothorax)
+- The Eiffel Tower grows up to ~15 cm taller in summer (thermal expansion of the iron)
+- Oxford University (teaching by 1096) is older than the Aztec Empire (Tenochtitlan founded 1325)
+- Posted via Metricool for 2026-11-18 18:00 ET, caption: "Napoleon lost to bunnies and Greg will never let it go 🐊👑 Which fact made you go "wait, what the f*ck"? #uselessfacts #funfacts #didyouknow #greg #comedy #napoleon #history"; TikTok title: "Napoleon vs the bunnies"; first comment: "which one did you NOT know? 🐊"
+- Planner: https://app.metricool.com/planner/calendar?blogId=8073640&openWithPostUuid=2086216781535724824
