@@ -41,3 +41,11 @@ Never reuse a fact from this list.
 - Oxford University (teaching by 1096) is older than the Aztec Empire (Tenochtitlan founded 1325)
 - Posted via Metricool for 2026-11-18 18:00 ET, caption: "Napoleon lost to bunnies and Greg will never let it go 🐊👑 Which fact made you go "wait, what the f*ck"? #uselessfacts #funfacts #didyouknow #greg #comedy #napoleon #history"; TikTok title: "Napoleon vs the bunnies"; first comment: "which one did you NOT know? 🐊"
 - Planner: https://app.metricool.com/planner/calendar?blogId=8073640&openWithPostUuid=2086216781535724824
+
+## Ep 6 — Useless facts #6 (made 2026-11-19)
+- Abraham Lincoln is in the National Wrestling Hall of Fame (honored as an "Outstanding American", 1992)
+- Butterflies taste with their feet (chemoreceptors on their legs)
+- Hawaiian pizza was invented in Canada (Sam Panopoulos, Chatham, Ontario, 1962)
+- Humans glow in the dark: the body emits visible light about 1,000× too weak for our eyes to see (2009 Japanese study)
+- Posted via Metricool for 2026-11-19 18:00 ET, caption: "Abe Lincoln would body slam your sorry *ss 🐊👑 Which fact made you go "wait, what the f*ck"? #uselessfacts #funfacts #didyouknow #greg #comedy #lincoln #history"; TikTok title: "Lincoln the wrestler"; first comment: "which one did you NOT know? 🐊"
+- Planner: https://app.metricool.com/planner/calendar?blogId=8073640&openWithPostUuid=3503174611580177505
