@@ -49,3 +49,11 @@ Never reuse a fact from this list.
 - Humans glow in the dark: the body emits visible light about 1,000× too weak for our eyes to see (2009 Japanese study)
 - Posted via Metricool for 2026-11-19 18:00 ET, caption: "Abe Lincoln would body slam your sorry *ss 🐊👑 Which fact made you go "wait, what the f*ck"? #uselessfacts #funfacts #didyouknow #greg #comedy #lincoln #history"; TikTok title: "Lincoln the wrestler"; first comment: "which one did you NOT know? 🐊"
 - Planner: https://app.metricool.com/planner/calendar?blogId=8073640&openWithPostUuid=3503174611580177505
+
+## Ep 7 — Useless facts #7 (made 2026-11-20)
+- France's last execution by guillotine was 10 Sep 1977, the same year Star Wars came out (May 1977)
+- Sea otters hold hands (paws) while sleeping so they don't drift apart
+- Alaska is both the westernmost and easternmost US state (Aleutian Islands cross the 180th meridian)
+- You can't keep humming with your nose pinched shut (air has nowhere to go)
+- Posted via Metricool for 2026-11-20 18:00 ET, caption: "France had guillotines AND Star Wars at the same time and nobody told Greg 🐊👑 Did you just try to hum with your nose pinched? Be f*cking honest. #uselessfacts #funfacts #didyouknow #greg #comedy #history #seaotters"; TikTok title: "Guillotines in the Star Wars era"; first comment: "which one did you NOT know? 🐊"
+- Planner: https://app.metricool.com/planner/calendar?blogId=8073640&openWithPostUuid=6882578678826745856
