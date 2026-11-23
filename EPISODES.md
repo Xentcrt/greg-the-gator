@@ -57,3 +57,11 @@ Never reuse a fact from this list.
 - You can't keep humming with your nose pinched shut (air has nowhere to go)
 - Posted via Metricool for 2026-11-20 18:00 ET, caption: "France had guillotines AND Star Wars at the same time and nobody told Greg 🐊👑 Did you just try to hum with your nose pinched? Be f*cking honest. #uselessfacts #funfacts #didyouknow #greg #comedy #history #seaotters"; TikTok title: "Guillotines in the Star Wars era"; first comment: "which one did you NOT know? 🐊"
 - Planner: https://app.metricool.com/planner/calendar?blogId=8073640&openWithPostUuid=6882578678826745856
+
+## Ep 8 — Useless facts #8 (made 2026-11-23)
+- 1923: jockey Frank Hayes died of a heart attack mid-race at Belmont Park and his horse Sweet Kiss still won
+- Rats "laugh" (~50 kHz ultrasonic chirps) when tickled (Jaak Panksepp's research)
+- There's a village in Norway called Hell, and it freezes over in winter
+- The stomach's surface lining replaces itself every ~3–5 days so the acid doesn't digest it
+- Posted via Metricool for 2026-11-23 18:00 ET, caption: "A dead guy won a horse race and Greg is still mad about it 🐊👑 Which fact made you go "wait, what the f*ck"? #uselessfacts #funfacts #didyouknow #greg #comedy #history #horseracing"; TikTok title: "The dead jockey who won"; first comment: "which one did you NOT know? 🐊"
+- Planner: https://app.metricool.com/planner/calendar?blogId=8073640&openWithPostUuid=1023020439764880345
