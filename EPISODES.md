@@ -65,3 +65,11 @@ Never reuse a fact from this list.
 - The stomach's surface lining replaces itself every ~3–5 days so the acid doesn't digest it
 - Posted via Metricool for 2026-11-23 18:00 ET, caption: "A dead guy won a horse race and Greg is still mad about it 🐊👑 Which fact made you go "wait, what the f*ck"? #uselessfacts #funfacts #didyouknow #greg #comedy #history #horseracing"; TikTok title: "The dead jockey who won"; first comment: "which one did you NOT know? 🐊"
 - Planner: https://app.metricool.com/planner/calendar?blogId=8073640&openWithPostUuid=1023020439764880345
+
+## Ep 9 — Useless facts #9 (made 2026-11-25)
+- In Switzerland it's illegal to own just one guinea pig (social animals; Animal Protection Ordinance, 2008)
+- The first speeding ticket (Walter Arnold, Kent, UK, 28 Jan 1896) was for going ~8 mph in a 2 mph zone
+- A fluffy cumulus cloud weighs about 1.1 million pounds (USGS estimate)
+- Babies are born with ~300 bones (some cartilage); they fuse to 206 in adults
+- Posted via Metricool for 2026-11-25 18:00 ET, caption: "Switzerland protects guinea pig feelings and Greg is f*cking furious 🐊👑 Be honest: would you get a speeding ticket at 8 mph? #uselessfacts #funfacts #didyouknow #greg #comedy #guineapig #science"; TikTok title: "One guinea pig is illegal"; first comment: "which one did you NOT know? 🐊"
+- Planner: https://app.metricool.com/planner/calendar?blogId=8073640&openWithPostUuid=-4564648829730993890
