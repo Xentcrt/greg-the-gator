@@ -73,3 +73,11 @@ Never reuse a fact from this list.
 - Babies are born with ~300 bones (some cartilage); they fuse to 206 in adults
 - Posted via Metricool for 2026-11-25 18:00 ET, caption: "Switzerland protects guinea pig feelings and Greg is f*cking furious 🐊👑 Be honest: would you get a speeding ticket at 8 mph? #uselessfacts #funfacts #didyouknow #greg #comedy #guineapig #science"; TikTok title: "One guinea pig is illegal"; first comment: "which one did you NOT know? 🐊"
 - Planner: https://app.metricool.com/planner/calendar?blogId=8073640&openWithPostUuid=-4564648829730993890
+
+## Ep 10 — Useless facts #10 (made 2026-11-26, Thanksgiving)
+- Bananas are mildly radioactive (they contain potassium-40; "banana equivalent dose")
+- Ben Franklin, in a 1784 letter to his daughter, called the turkey "a much more respectable bird" than the bald eagle, which he said had "bad moral character"
+- Reno, Nevada (~119.8°W) is farther west than Los Angeles (~118.2°W)
+- Giraffes and humans both have 7 neck vertebrae
+- Posted via Metricool for 2026-11-26 18:00 ET, caption: "Your banana is radioactive and Ben Franklin hated your Thanksgiving bird. Happy f*cking Thanksgiving 🐊👑 Which fact made you go "wait, what the f*ck"? #uselessfacts #funfacts #didyouknow #greg #comedy #thanksgiving #science"; TikTok title: "Your bananas are radioactive"; first comment: "which one did you NOT know? 🐊"
+- Planner: https://app.metricool.com/planner/calendar?blogId=8073640&openWithPostUuid=5730033445935204170
