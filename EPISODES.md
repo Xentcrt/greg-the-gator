@@ -81,3 +81,11 @@ Never reuse a fact from this list.
 - Giraffes and humans both have 7 neck vertebrae
 - Posted via Metricool for 2026-11-26 18:00 ET, caption: "Your banana is radioactive and Ben Franklin hated your Thanksgiving bird. Happy f*cking Thanksgiving 🐊👑 Which fact made you go "wait, what the f*ck"? #uselessfacts #funfacts #didyouknow #greg #comedy #thanksgiving #science"; TikTok title: "Your bananas are radioactive"; first comment: "which one did you NOT know? 🐊"
 - Planner: https://app.metricool.com/planner/calendar?blogId=8073640&openWithPostUuid=5730033445935204170
+
+## Ep 11 — Useless facts #11 (made 2026-11-27)
+- Great Molasses Flood, Boston, 15 Jan 1919: a storage tank burst and a wave of molasses moved through the North End at ~35 mph
+- Crows remember human faces, hold grudges, and teach other crows to mob that person (John Marzluff's mask study, Univ. of Washington)
+- At Point Nemo (the oceanic pole of inaccessibility, ~2,700 km from land) the nearest humans are often astronauts on the ISS (~400 km up)
+- A pineapple plant takes about 18–24 months (up to ~2 years) to produce one fruit
+- Posted via Metricool for 2026-11-27 18:00 ET, caption: "Boston got hit by a tidal wave of f*cking syrup and Greg has questions 🐊👑 Be honest: has a crow ever looked at you like it knows something? #uselessfacts #funfacts #didyouknow #greg #comedy #history #crows"; TikTok title: "Boston's molasses tidal wave"; first comment: "which one did you NOT know? 🐊"
+- Planner: https://app.metricool.com/planner/calendar?blogId=8073640&openWithPostUuid=-5816611344284761427
